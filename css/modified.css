@@ -6,3 +6,13 @@
 .em-card{
     width: 220px;
 }
+
+.logo_text{
+    color: #ff9900 !important;
+}
+
+.logo_img{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
